@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Certification Validation | Intern Crowd</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+</head>
+<body>
+    <div class="container shadow mt-5 mx-auto text-center py-5 bg-light">
+        <h1 id="user_name"></h1>
+    </div>
+    <script type="text/javascript">
+        const params = new Proxy(new URLSearchParams(window.location.search), {
+            get: (searchParams, prop) => searchParams.get(prop),
+        });
+
+        const url = "users_db.json";
+        const user_id = params.user_id;
+        
+        // Fetch the JSON data and parse it into a JavaScript object
+        function getData(id){
+            fetch(url)
+            .then(response => response.json())
+            .then(data => {
+                // Get the element with id 1 from the "users" array
+                const user = data.find(user => user.user_id === id);
+        
+                // Print the user's name to the console
+                document.getElementById('user_name').innerHTML = user.name;
+            });
+        }
+        getData(user_id);
+    </script>
+</body>
+</html>
