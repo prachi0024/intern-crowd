@@ -1,0 +1,20 @@
+[
+    {
+        "id": 0,
+        "user_id": "intern_001",
+        "name": "Ritik Swami",
+        "email": "ritikswami@gmail.com",
+        "domain": "Web Development",
+        "mobile_no": "9856325689",
+        "status": "issued"
+    },
+    {
+        "id": 1,
+        "user_id": "intern_002",
+        "name": "Prachi Patil",
+        "email": "prachipatil@gmail.com",
+        "domain": "Java Development",
+        "mobile_no": "9856325689",
+        "status": "pending"
+    }
+]
