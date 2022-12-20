@@ -16,8 +16,8 @@ function getData(id){
         // Print the user's name to the console
         document.getElementById('user_name').innerHTML = user.name;
         document.getElementById('course').innerHTML = user.domain;
-        document.getElementById('enrolled_date').innerHTML = user.course;
-        document.getElementById('certificate_issued_date').innerHTML = user.course;
+        document.getElementById('enrolled_date').innerHTML = user.enrolled_date;
+        document.getElementById('certificate_issued_date').innerHTML = user.certificate_issued_date;
     });
 }
 getData(user_id);
