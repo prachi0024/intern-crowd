@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Poppins", sans-serif;
+  color: #fff;
+  background: linear-gradient(135deg, #fcdf8a 0%, #f38381 100%);
+}
+body .container {
+  height: 80vh;
+  max-width: 1000px;
+  width: auto;
+  background: linear-gradient(135deg, #F36265 0%, #961276 100%);
+  padding: 25px 40px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+body .container .logo {
+  text-align: center;
+  font-size: 24px;
+  font-weight: 500;
+  color: rgb(113, 60, 60);
+  letter-spacing: 2px;
+}
+body .container .content {
+  text-indent: 2rem;
+  text-align: justify;
+}
+body .container .sincerely h6 {
+  font-size: 14px;
+  font-weight: 400;
+  color: rgba(246, 188, 255, 0.793);
+  margin-bottom: 10px;
+}
+body .container .sincerely .name {
+  font-size: 18px;
+  color: rgb(255, 255, 255);
+  line-height: 18px;
+  font-weight: 600;
+}
+body .container .sincerely .designation {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.667);
+}/*# sourceMappingURL=certificate.css.map */
