@@ -15,7 +15,7 @@ function getData(id){
 
         // Print the user's name to the console
         document.getElementById('user_name').innerHTML = user.name;
-        document.getElementById('course').innerHTML = user.course;
+        document.getElementById('course').innerHTML = user.domain;
         document.getElementById('enrolled_date').innerHTML = user.course;
         document.getElementById('certificate_issued_date').innerHTML = user.course;
     });
