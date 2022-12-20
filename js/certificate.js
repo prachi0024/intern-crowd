@@ -12,6 +12,7 @@ function getData(id){
     .then(data => {
         // Get the element with id 1 from the "users" array
         const user = data.find(user => user.user_id === id);
+        console.log(user);
 
         // Print the user's name to the console
         document.getElementById('user_name').innerHTML = user.name;
