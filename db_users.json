@@ -22,6 +22,17 @@
    {
         "id": 2,
         "user_id": "intern_003",
+        "name": "Aarti Nagar",
+        "email": "artydhakad@gmail.com",
+        "domain": "Web Development",
+        "mobile_no": "9131819762",
+        "enrolled_date": "20 Dec 2022",
+        "certificate_issued_date": "15 Jan  2022",
+        "status": "issued"
+    },
+    {
+        "id": 0,
+        "user_id": "intern_001",
         "name": "Ritik Swami",
         "email": "ritikswami@gmail.com",
         "domain": "Web Development",
