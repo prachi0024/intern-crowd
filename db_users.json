@@ -19,22 +19,15 @@
         "mobile_no": "9856325689",
         "status": "pending"
     },
-    {
+   {
         "id": 2,
-        "user_id": "9a68ggD96s",
-        "name": "Pratik Patil",
-        "email": "prachipatil@gmail.com",
-        "domain": "C/C++ Development",
+        "user_id": "intern_003",
+        "name": "Ritik Swami",
+        "email": "ritikswami@gmail.com",
+        "domain": "Web Development",
         "mobile_no": "9856325689",
-        "status": "pending"
-    },
-    {
-        "id": 3,
-        "user_id": "6s468gssz4",
-        "name": "sakshi",
-        "email": "prachipatil@gmail.com",
-        "domain": "C/C++ Development",
-        "mobile_no": "9856325689",
-        "status": "pending"
+        "enrolled_date": "20 Oct 2022",
+        "certificate_issued_date": "20 Dec 2022",
+        "status": "issued"
     }
 ]
