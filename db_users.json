@@ -2,7 +2,7 @@
     {
         "id": 0,
         "user_id": "intern_001",
-        "name": "Ritik Swami",
+        "name": "Rit Swami",
         "email": "ritikswami@gmail.com",
         "domain": "Web Development",
         "mobile_no": "9856325689",
@@ -31,8 +31,8 @@
         "status": "issued"
     },
     {
-        "id": 0,
-        "user_id": "intern_001",
+        "id": 3,
+        "user_id": "intern_004",
         "name": "Ritik Swami",
         "email": "ritikswami@gmail.com",
         "domain": "Web Development",
