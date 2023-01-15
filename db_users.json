@@ -260,5 +260,27 @@
         "enrolled_date": "15 Dec 2022",
         "certificate_issued_date": "16 Jan 2023",
         "status": "issued"
+    },
+    {
+        "id": 24,
+        "user_id": "intern_025",
+        "name": "Shubham sampat Gunjal",
+        "email": "gunjalshubham09@gmail.com",
+        "domain": "Cloud Computing",
+        "mobile_no": "7620886682",
+        "enrolled_date": "15 Dec 2022",
+        "certificate_issued_date": "16 Jan 2023",
+        "status": "issued"
+    },
+    {
+        "id": 25,
+        "user_id": "intern_026",
+        "name": "Patil Sakshi Sakharam",
+        "email": "sakshispatil2011@gmail.com",
+        "domain": "Cloud Computing",
+        "mobile_no": "9356790925",
+        "enrolled_date": "15 Dec 2022",
+        "certificate_issued_date": "16 Jan 2023",
+        "status": "issued"
     }
 ]
