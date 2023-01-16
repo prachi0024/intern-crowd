@@ -282,5 +282,27 @@
         "enrolled_date": "15 Dec 2022",
         "certificate_issued_date": "16 Jan 2023",
         "status": "issued"
+    },
+    {
+        "id": 26,
+        "user_id": "intern_027",
+        "name": "Preeti vishwakarma",
+        "email": "pv63336@gmail.com",
+        "domain": "Web Development",
+        "mobile_no": "8349250791",
+        "enrolled_date": "15 Dec 2022",
+        "certificate_issued_date": "16 Jan 2023",
+        "status": "issued"
+    },
+    {
+        "id": 25,
+        "user_id": "intern_026",
+        "name": "Shreya Vinod Darodkar",
+        "email": "shreyadarodkar11@gmail.com",
+        "domain": "Web Development",
+        "mobile_no": "8767334508",
+        "enrolled_date": "15 Dec 2022",
+        "certificate_issued_date": "16 Jan 2023",
+        "status": "issued"
     }
 ]
