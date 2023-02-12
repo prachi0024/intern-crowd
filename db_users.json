@@ -634,5 +634,16 @@
         "enrolled_date": "12 Jan 2023",
         "certificate_issued_date": "12 Feb 2023",
         "status": "issued"
+    },
+    {
+        "id": 58,
+        "user_id": "intern_059",
+        "name": "Sakshi Vijay Malvadkar",
+        "email": "sakshimalvadkar11@gmail.com",
+        "domain": "Java Development",
+        "mobile_no": "9172993936",
+        "enrolled_date": "12 Jan 2023",
+        "certificate_issued_date": "12 Feb 2023",
+        "status": "issued"
     }
 ]
