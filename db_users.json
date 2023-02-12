@@ -645,5 +645,16 @@
         "enrolled_date": "12 Jan 2023",
         "certificate_issued_date": "12 Feb 2023",
         "status": "issued"
+    },
+    {
+        "id": 59,
+        "user_id": "intern_060",
+        "name": "Ajay Kumar Varma Nagaraju",
+        "email": "ajaynagaraju32@gmail.com",
+        "domain": "Cloud Computing",
+        "mobile_no": "9392593332",
+        "enrolled_date": "12 Jan 2023",
+        "certificate_issued_date": "12 Feb 2023",
+        "status": "issued"
     }
 ]
