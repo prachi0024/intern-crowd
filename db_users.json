@@ -788,5 +788,16 @@
         "enrolled_date": "13 Jan 2023",
         "certificate_issued_date": "13 Feb 2023",
         "status": "issued"
+    },
+    {
+        "id": 72,
+        "user_id": "intern_073",
+        "name": "Ankit Kumar Mishra",
+        "email": "ankitkumarmishra067@gmail.com",
+        "domain": "Web Development",
+        "mobile_no": "8521555371",
+        "enrolled_date": "13 Jan 2023",
+        "certificate_issued_date": "13 Feb 2023",
+        "status": "issued"
     }
 ]
