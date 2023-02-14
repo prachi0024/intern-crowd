@@ -799,5 +799,16 @@
         "enrolled_date": "13 Jan 2023",
         "certificate_issued_date": "13 Feb 2023",
         "status": "issued"
+    },
+    {
+        "id": 73,
+        "user_id": "intern_074",
+        "name": "Swapnil Sunil Nimbalkar",
+        "email": "swapnilnimbalkar202@gmail.com",
+        "domain": "Java Development",
+        "mobile_no": "9604329196",
+        "enrolled_date": "13 Jan 2023",
+        "certificate_issued_date": "13 Feb 2023",
+        "status": "issued"
     }
 ]
