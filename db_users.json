@@ -723,7 +723,7 @@
         "certificate_issued_date": "12 Feb 2023",
         "status": "issued"
     },
-    
+    {
         "id": 66,
         "user_id": "intern_067",
         "name": "Akshat Shrivastava",
@@ -732,6 +732,61 @@
         "mobile_no": "6262715815",
         "enrolled_date": "12 Jan 2023",
         "certificate_issued_date": "12 Feb 2023",
+        "status": "issued"
+    },
+     {
+        "id": 67,
+        "user_id": "intern_068",
+        "name": "Pranjal Vikas More",
+        "email": "pranjalmore2004@gmail.com",
+        "domain": "Web Development",
+        "mobile_no": "8600707787",
+        "enrolled_date": "14 Jan 2023",
+        "certificate_issued_date": "14 Feb 2023",
+        "status": "issued"
+    },
+     {
+        "id": 68,
+        "user_id": "intern_069",
+        "name": "Yashwardhan Rathore",
+        "email": "yashrathore017@gmail.com",
+        "domain": "Web Development",
+        "mobile_no": "9753788061",
+        "enrolled_date": "14 Jan 2023",
+        "certificate_issued_date": "14 Feb 2023",
+        "status": "issued"
+    },
+    {
+        "id": 69,
+        "user_id": "intern_070",
+        "name": "Nikhil Aryan Kohli",
+        "email": "yashrathore017@gmail.com",
+        "domain": "Web Development",
+        "mobile_no": "9753788061",
+        "enrolled_date": "14 Jan 2023",
+        "certificate_issued_date": "14 Feb 2023",
+        "status": "issued"
+    },
+    {
+        "id": 70,
+        "user_id": "intern_071",
+        "name": "Deenesh Kumar Sabat",
+        "email": "deeneshsabat.cse.2019@nist.edu",
+        "domain": "Web Development",
+        "mobile_no": "9861413867",
+        "enrolled_date": "13 Jan 2023",
+        "certificate_issued_date": "13 Feb 2023",
+        "status": "issued"
+    },
+     {
+        "id": 71,
+        "user_id": "intern_072",
+        "name": "Aayush Ojha",
+        "email": "aayushojhaa124@gmail.com",
+        "domain": "Web Development",
+        "mobile_no": "9893964079",
+        "enrolled_date": "13 Jan 2023",
+        "certificate_issued_date": "13 Feb 2023",
         "status": "issued"
     }
 ]
