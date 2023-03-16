@@ -3295,49 +3295,5 @@
         "enrolled_date": "16 Feb 2023",
         "certificate_issued_date": "16 March 2023",
         "status": "issued"
-    },
-    {
-        "id": 303,
-        "user_id": "intern_304",
-        "name": "",
-        "email": "",
-        "domain": "",
-        "mobile_no": "",
-        "enrolled_date": "16 Feb 2023",
-        "certificate_issued_date": "16 March 2023",
-        "status": "issued"
-    },
-    {
-        "id": 304,
-        "user_id": "intern_305",
-        "name": "",
-        "email": "",
-        "domain": "",
-        "mobile_no": "",
-        "enrolled_date": "16 Feb 2023",
-        "certificate_issued_date": "16 March 2023",
-        "status": "issued"
-    },
-    {
-        "id": 305,
-        "user_id": "intern_306",
-        "name": "",
-        "email": "",
-        "domain": "",
-        "mobile_no": "",
-        "enrolled_date": "16 Feb 2023",
-        "certificate_issued_date": "16 March 2023",
-        "status": "issued"
-    },
-    {
-        "id": 306,
-        "user_id": "intern_307",
-        "name": "",
-        "email": "",
-        "domain": "",
-        "mobile_no": "",
-        "enrolled_date": "16 Feb 2023",
-        "certificate_issued_date": "16 March 2023",
-        "status": "issued"
     }
 ]
