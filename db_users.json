@@ -3915,10 +3915,21 @@
     {
         "id": 359,
         "user_id": "intern_360",
-        "name": "Piyush Nagdeote                                ",
+        "name": "Piyush Nagdeote",                        
         "email": "pnagdeote219@gmail.com",
         "domain": "Java Development",
         "mobile_no": "9370318639",
+        "enrolled_date": "20 Feb 2023",
+        "certificate_issued_date": "20 March 2023",
+        "status": "issued"
+    },
+    {
+        "id": 360,
+        "user_id": "intern_361",
+        "name": "Prachi Patil",
+        "email": "prachi.patil0024@gmail.com",
+        "domain": "Web Development",
+        "mobile_no": "9131737607",
         "enrolled_date": "20 Feb 2023",
         "certificate_issued_date": "20 March 2023",
         "status": "issued"
