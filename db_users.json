@@ -6716,5 +6716,16 @@
         "enrolled_date": "15 March 2023",
         "certificate_issued_date": "15 April 2023",
         "status": "issued"
+    },
+{
+        "id": 626,
+        "user_id": "intern_627",
+        "name": "Rakesh Dnyaneshwar Patil",
+        "email": "rakesh030p@gmail.com",
+        "domain": "Web Development",
+        "mobile_no": "8624067068",
+        "enrolled_date": "15 March 2023",
+        "certificate_issued_date": "15 April 2023",
+        "status": "issued"
     }
 ]
