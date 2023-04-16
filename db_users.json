@@ -6727,5 +6727,16 @@
         "enrolled_date": "15 March 2023",
         "certificate_issued_date": "15 April 2023",
         "status": "issued"
+    },
+{
+        "id": 627,
+        "user_id": "intern_628",
+        "name": "Bhujbal Vaishnavi Pradeep",
+        "email": "vaishnavibhujbal2002@gmail.com",
+        "domain": "Android app Development",
+        "mobile_no": "9096133025",
+        "enrolled_date": "15 March 2023",
+        "certificate_issued_date": "15 April 2023",
+        "status": "issued"
     }
 ]
