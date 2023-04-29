@@ -7742,10 +7742,10 @@
     {
         "id": 720,
         "user_id": "intern_721",
-        "name": "",
-        "email": "",
-        "domain": "",
-        "mobile_no": "",
+        "name": "Gayatri Rani",
+        "email": " gayatrirani102@gmail.com",
+        "domain": "Web Development",
+        "mobile_no": "6206147624",
         "enrolled_date": "22 March 2023",
         "certificate_issued_date": "22 April 2023",
         "status": "issued"
@@ -7753,10 +7753,10 @@
     {
         "id": 721,
         "user_id": "intern_722",
-        "name": "",
-        "email": "",
-        "domain": "",
-        "mobile_no": "",
+        "name": "Aditya kadam",
+        "email": "adityakadam650@gmail.com",
+        "domain": "Web Development",
+        "mobile_no": "8788296476",
         "enrolled_date": "22 March 2023",
         "certificate_issued_date": "22 April 2023",
         "status": "issued"
@@ -7764,6 +7764,17 @@
     {
         "id": 722,
         "user_id": "intern_723",
+        "name": "Tushar Gunjal",
+        "email": "tushargunjal.sits.it@gmail.com",
+        "domain": "Java Development",
+        "mobile_no": "9730402395",
+        "enrolled_date": "22 March 2023",
+        "certificate_issued_date": "22 April 2023",
+        "status": "issued"
+    },
+    {
+        "id": 723,
+        "user_id": "intern_724",
         "name": "",
         "email": "",
         "domain": "",
