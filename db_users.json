@@ -8281,6 +8281,17 @@
     {
         "id": 769,
         "user_id": "intern_770",
+        "name": "Aditya Bhalchandra Patil",
+        "email": "patiladitya210102@gmail.com",
+        "domain": "Cloud Computing",
+        "mobile_no": "9420965439",
+        "enrolled_date": "19 March 2023",
+        "certificate_issued_date": "19 April 2023",
+        "status": "issued"
+    },
+    {
+        "id": 770,
+        "user_id": "intern_771",
         "name": "",
         "email": "",
         "domain": "",
