@@ -9652,5 +9652,16 @@
         "enrolled_date": "01 June 2023",
         "certificate_issued_date": "30 June 2023",
         "status": "issued"
+    },
+    {
+        "id": 895,
+        "user_id": "intern_896",
+        "name": "Goutam Soni",
+        "email": "soni.goutam1025@gmail.com",
+        "domain": "Web Development",
+        "mobile_no": "9685849893",
+        "enrolled_date": "01 June 2023",
+        "certificate_issued_date": "30 June 2023",
+        "status": "issued"
     }
 ]
