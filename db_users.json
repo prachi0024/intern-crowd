@@ -9694,7 +9694,7 @@
         "domain": "Web Development",
         "mobile_no": "9545055835",
         "enrolled_date": "01 June 2023",
-        "certificate_issued_date": "30 June 2023",
+        "certificate_issued_date": "20 July 2023",
         "status": "issued"
     },
     {
@@ -9711,6 +9711,28 @@
     {
         "id": 901,
         "user_id": "intern_902",
+        "name": "Kanhaiya Kiran Mahajan",
+        "email": "knmahajan5447@gmail.com",
+        "domain": "Web Development",
+        "mobile_no": "7999847620",
+        "enrolled_date": "01 June 2023",
+        "certificate_issued_date": "30 June 2023",
+        "status": "issued"
+    },
+    {
+        "id": 902,
+        "user_id": "intern_903",
+        "name": "",
+        "email": "",
+        "domain": "Web Development",
+        "mobile_no": "",
+        "enrolled_date": "01 June 2023",
+        "certificate_issued_date": "30 June 2023",
+        "status": "issued"
+    },
+    {
+        "id": 903,
+        "user_id": "intern_904",
         "name": "",
         "email": "",
         "domain": "Web Development",
