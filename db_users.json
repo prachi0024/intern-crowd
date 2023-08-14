@@ -10070,5 +10070,16 @@
         "enrolled_date": "05 July 2023",
         "certificate_issued_date": "05 August 2023",
         "status": "issued"
+    },
+    {
+        "id": 934,
+        "user_id": "intern_935",
+        "name": "Mahi Trivedi",
+        "email": "trivedimahi863@gmail.com",
+        "domain": "Java Development",
+        "mobile_no": "7990616435",
+        "enrolled_date": "05 July 2023",
+        "certificate_issued_date": "05 August 2023",
+        "status": "issued"
     }
 ]
