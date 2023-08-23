@@ -10092,5 +10092,16 @@
         "enrolled_date": "01 July 2023",
         "certificate_issued_date": "30 July 2023",
         "status": "issued"
+    },
+    {
+        "id": 936,
+        "user_id": "intern_937",
+        "name": "Divya Kailas Divekar",
+        "email": "divyadivekar1006@gmail.com",
+        "domain": "Java Development",
+        "mobile_no": "7499228596",
+        "enrolled_date": "22 July 2023",
+        "certificate_issued_date": "22 August 2023",
+        "status": "issued"
     }
 ]
