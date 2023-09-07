@@ -10202,5 +10202,27 @@
         "enrolled_date": "01 July 2023",
         "certificate_issued_date": "30 August 2023",
         "status": "issued"
+    },
+    {
+        "id": 946,
+        "user_id": "intern_947",
+        "name": "Utkarsh Choubey",
+        "email": "utkarshchoubey8@gmail.com",
+        "domain": "Web Development",
+        "mobile_no": "9771314609",
+        "enrolled_date": "01 July 2023",
+        "certificate_issued_date": "30 August 2023",
+        "status": "issued"
+    },
+    {
+        "id": 947,
+        "user_id": "intern_948",
+        "name": "Vishal Mahajan",
+        "email": "vishalmahajan1118@gmail.com",
+        "domain": "Web Development",
+        "mobile_no": "7470745781",
+        "enrolled_date": "01 July 2023",
+        "certificate_issued_date": "30 August 2023",
+        "status": "issued"
     }
 ]
