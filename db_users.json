@@ -10299,7 +10299,7 @@
         "domain": "Java Development",
         "mobile_no": "8958476956",
         "enrolled_date": "01 October 2023",
-        "certificate_issued_date": "01 October 2023",
+        "certificate_issued_date": "30 October 2023",
         "status": "issued"
     },
     {
@@ -10310,7 +10310,7 @@
         "domain": "Web Development",
         "mobile_no": "9075868473",
         "enrolled_date": "01 October 2023",
-        "certificate_issued_date": "01 October 2023",
+        "certificate_issued_date": "30 October 2023",
         "status": "issued"
     },
     {
@@ -10321,18 +10321,18 @@
         "domain": "Web Development",
         "mobile_no": "6262999504",
         "enrolled_date": "01 October 2023",
-        "certificate_issued_date": "01 October 2023",
+        "certificate_issued_date": "30 October 2023",
         "status": "issued"
     },
     {
         "id": 957,
         "user_id": "intern_958",
-        "name": "",
-        "email": "",
-        "domain": "",
-        "mobile_no": "",
+        "name": "Shubham Bichhwe",
+        "email": "shubhambichhwe20102@acropolis.in",
+        "domain": "Web Development",
+        "mobile_no": "9179338474",
         "enrolled_date": "01 October 2023",
-        "certificate_issued_date": "01 October 2023",
+        "certificate_issued_date": "30 October 2023",
         "status": "issued"
     }
 ]
