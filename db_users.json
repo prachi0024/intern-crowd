@@ -10378,16 +10378,5 @@
         "enrolled_date": "23 October 2023",
         "certificate_issued_date": "23 November 2023",
         "status": "issued"
-    },
-    {
-        "id": 962,
-        "user_id": "intern_963",
-        "name": "",
-        "email": "",
-        "domain": "Web Development",
-        "mobile_no": "",
-        "enrolled_date": "23 October 2023",
-        "certificate_issued_date": "23 November 2023",
-        "status": "issued"
     }
 ]
