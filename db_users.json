@@ -10378,5 +10378,16 @@
         "enrolled_date": "23 October 2023",
         "certificate_issued_date": "23 November 2023",
         "status": "issued"
+    },
+    {
+        "id": 962,
+        "user_id": "intern_963",
+        "name": "Sake Chaitali Rajendra",
+        "email": "chaitalisake@gmail.com",
+        "domain": "C/C++ Development",
+        "mobile_no": "9156863819",
+        "enrolled_date": "26 October 2023",
+        "certificate_issued_date": "26 November 2023",
+        "status": "issued"
     }
 ]
