@@ -10488,5 +10488,27 @@
         "enrolled_date": "01 November 2023",
         "certificate_issued_date": "30 November 2023",
         "status": "issued"
+    },
+    {
+        "id": 972,
+        "user_id": "intern_973",
+        "name": "KARANDE PRATIKSHA PRAKASH",
+        "email": "karandepratiksha9765@gmail.com",
+        "domain": "Web Development",
+        "mobile_no": "9922503065",
+        "enrolled_date": "01 November 2023",
+        "certificate_issued_date": "30 November 2023",
+        "status": "issued"
+    },
+    {
+        "id": 973,
+        "user_id": "intern_974",
+        "name": "Rakhunde Priyanka Lalaso",
+        "email": "priyankarakhunde192@gmail.com",
+        "domain": "C/C++ Development",
+        "mobile_no": "7498064503",
+        "enrolled_date": "01 November 2023",
+        "certificate_issued_date": "30 November 2023",
+        "status": "issued"
     }
 ]
