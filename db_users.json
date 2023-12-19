@@ -10510,5 +10510,27 @@
         "enrolled_date": "01 November 2023",
         "certificate_issued_date": "30 November 2023",
         "status": "issued"
+    },
+    {
+        "id": 974,
+        "user_id": "intern_975",
+        "name": "Gaikwad Swara Raviraj",
+        "email": "swaragaikwad1901@gmail.com",
+        "domain": "Web Development",
+        "mobile_no": "8308920083",
+        "enrolled_date": "01 November 2023",
+        "certificate_issued_date": "30 November 2023",
+        "status": "issued"
+    },
+    {
+        "id": 975,
+        "user_id": "intern_976",
+        "name": "Riya Ashok Sawalkar",
+        "email": "riyasawalkar2002@gmail.com",
+        "domain": "Android app Development",
+        "mobile_no": "9146993064",
+        "enrolled_date": "01 November 2023",
+        "certificate_issued_date": "30 November 2023",
+        "status": "issued"
     }
 ]
