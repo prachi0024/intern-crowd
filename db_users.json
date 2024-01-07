@@ -10554,5 +10554,16 @@
         "enrolled_date": "01 December 2023",
         "certificate_issued_date": "30 December 2023",
         "status": "issued"
+    },
+    {
+        "id": 978,
+        "user_id": "intern_979",
+        "name": "Shinde Pranali Tanaji",
+        "email": "shindepranali9402@gmail.com",
+        "domain": "Web Development",
+        "mobile_no": "7387724539",
+        "enrolled_date": "01 December 2023",
+        "certificate_issued_date": "30 December 2023",
+        "status": "issued"
     }
 ]
