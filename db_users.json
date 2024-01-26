@@ -10565,5 +10565,16 @@
         "enrolled_date": "01 December 2023",
         "certificate_issued_date": "30 December 2023",
         "status": "issued"
+    },
+    {
+        "id": 979,
+        "user_id": "intern_980",
+        "name": "Nikhil Pramod Raskar",
+        "email": "nikhilraskarsmile14u@gmail.com",
+        "domain": "Java Development",
+        "mobile_no": "8600272004",
+        "enrolled_date": "25 December 2023",
+        "certificate_issued_date": "25 January 2023",
+        "status": "issued"
     }
 ]
