@@ -10598,5 +10598,16 @@
         "enrolled_date": "01 January 2023",
         "certificate_issued_date": "30 January 2023",
         "status": "issued"
+    },
+    {
+        "id": 982,
+        "user_id": "intern_983",
+        "name": "Pranali keshav Shendage",
+        "email": "pranalishendage0@gmail.com",
+        "domain": "Web Development",
+        "mobile_no": "9322127502",
+        "enrolled_date": "01 January 2023",
+        "certificate_issued_date": "30 January 2023",
+        "status": "issued"
     }
 ]
