@@ -10620,5 +10620,16 @@
         "enrolled_date": "01 February 2023",
         "certificate_issued_date": "29 February 2023",
         "status": "issued"
+    },
+    {
+        "id": 984,
+        "user_id": "intern_985",
+        "name": "KODI ABHINAV",
+        "email": "abhinav03k@gmail.com",
+        "domain": "Digital Marketing",
+        "mobile_no": "8639399033",
+        "enrolled_date": "01 February 2023",
+        "certificate_issued_date": "29 February 2023",
+        "status": "issued"
     }
 ]
