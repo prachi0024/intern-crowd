@@ -10664,5 +10664,16 @@
         "enrolled_date": "01 April 2024",
         "certificate_issued_date": "30 April 2024",
         "status": "issued"
+    },
+    {
+        "id": 988,
+        "user_id": "intern_989",
+        "name": "Mohammad Muntazim Shaikh",
+        "email": "mohd.muntazim30@gmail.com",
+        "domain": "Web Development",
+        "mobile_no": "7058504571",
+        "enrolled_date": "01 April 2024",
+        "certificate_issued_date": "30 April 2024",
+        "status": "issued"
     }
 ]
