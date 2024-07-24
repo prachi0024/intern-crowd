@@ -10675,5 +10675,16 @@
         "enrolled_date": "01 April 2024",
         "certificate_issued_date": "30 April 2024",
         "status": "issued"
+    },
+    {
+        "id": 989,
+        "user_id": "intern_990",
+        "name": "Holkar Rohit Suresh",
+        "email": "rohitholkar85@gmail.com",
+        "domain": "Java Development",
+        "mobile_no": "9766045900",
+        "enrolled_date": "23 June 2024",
+        "certificate_issued_date": "23 july 2024",
+        "status": "issued"
     }
 ]
